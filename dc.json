@@ -2,7 +2,7 @@
   "storeHouse": [
      {
       "sourceName": "时空影视主力",
-      "sourceUrl": "https://abc.sklive.eu.org/live.json"
+      "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/ericszy528/live/main/live.json"
     }, 
       {
       "sourceName": "时空影视备用1",
@@ -18,7 +18,7 @@
     },
      {
       "sourceName": "高清无广线路",
-      "sourceUrl": "https://abc.sklive.eu.org/l.json"
+      "sourceUrl": "https://raw.githubusercontent.com/ericszy528/live/main/l.json"
     }
   ]
 }
