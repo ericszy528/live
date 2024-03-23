@@ -1,0 +1,24 @@
+{
+  "storeHouse": [
+     {
+      "sourceName": "时空影视主力",
+      "sourceUrl": "https://abc.sklive.eu.org/live.json"
+    }, 
+      {
+      "sourceName": "时空影视备用1",
+      "sourceUrl": "http://vip.ohphp.com/APP/mys/tv.json"
+    },
+      {
+      "sourceName": "时空影视备用2",
+      "sourceUrl": "https://www.sklive.eu.org/1/fty.json"
+    },
+      {
+      "sourceName": "时空影视少儿",
+      "sourceUrl": "http://vip.ohphp.com/APP/xuexi/jy.json"
+    },
+     {
+      "sourceName": "高清无广线路",
+      "sourceUrl": "https://abc.sklive.eu.org/l.json"
+    }
+  ]
+}
